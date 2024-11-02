@@ -1,0 +1,15 @@
+C:\Users\talkt\Desktop\Projects\CSharpLearning\LearDesignPattern\obj\Debug\net8.0\LearDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talkt\Desktop\Projects\CSharpLearning\LearDesignPattern\obj\Debug\net8.0\LearDesignPattern.AssemblyInfoInputs.cache
+C:\Users\talkt\Desktop\Projects\CSharpLearning\LearDesignPattern\obj\Debug\net8.0\LearDesignPattern.AssemblyInfo.cs
+C:\Users\talkt\Desktop\Projects\CSharpLearning\LearDesignPattern\obj\Debug\net8.0\LearDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\talkt\Desktop\Projects\CSharpLearning\LearDesignPattern\obj\Debug\net8.0\LearDesignPattern.sourcelink.json
+C:\Users\talkt\Desktop\Projects\CSharpLearning\LearDesignPattern\bin\Debug\net8.0\LearDesignPattern.exe
+C:\Users\talkt\Desktop\Projects\CSharpLearning\LearDesignPattern\bin\Debug\net8.0\LearDesignPattern.deps.json
+C:\Users\talkt\Desktop\Projects\CSharpLearning\LearDesignPattern\bin\Debug\net8.0\LearDesignPattern.runtimeconfig.json
+C:\Users\talkt\Desktop\Projects\CSharpLearning\LearDesignPattern\bin\Debug\net8.0\LearDesignPattern.dll
+C:\Users\talkt\Desktop\Projects\CSharpLearning\LearDesignPattern\bin\Debug\net8.0\LearDesignPattern.pdb
+C:\Users\talkt\Desktop\Projects\CSharpLearning\LearDesignPattern\obj\Debug\net8.0\LearDesignPattern.dll
+C:\Users\talkt\Desktop\Projects\CSharpLearning\LearDesignPattern\obj\Debug\net8.0\refint\LearDesignPattern.dll
+C:\Users\talkt\Desktop\Projects\CSharpLearning\LearDesignPattern\obj\Debug\net8.0\LearDesignPattern.pdb
+C:\Users\talkt\Desktop\Projects\CSharpLearning\LearDesignPattern\obj\Debug\net8.0\LearDesignPattern.genruntimeconfig.cache
+C:\Users\talkt\Desktop\Projects\CSharpLearning\LearDesignPattern\obj\Debug\net8.0\ref\LearDesignPattern.dll
