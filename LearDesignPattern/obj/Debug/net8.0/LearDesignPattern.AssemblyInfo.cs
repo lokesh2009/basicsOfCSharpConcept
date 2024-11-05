@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LearDesignPattern")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2be5d8e3d5f98f89104722ec832ca553e827222b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31622936187f90036bbdff309dc8ce3bfd96a746")]
 [assembly: System.Reflection.AssemblyProductAttribute("LearDesignPattern")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LearDesignPattern")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

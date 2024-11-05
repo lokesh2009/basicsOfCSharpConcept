@@ -10,15 +10,15 @@ public class Car:Vehicle{
     public string Model{get;set;}
     public string Year{set;get;}
 
-  /*   public void Start(){
+    public override void Start(){
 
-        System.Console.WriteLine("Start the car..")
+        System.Console.WriteLine("Car Start..");
     }
 
-    public void Stop(){
+    public override void Stop(){
 
-        System.Console.WriteLine("Stop the Car");
-    } */
+        System.Console.WriteLine(" Car Stop ");
+    } 
 
 
         

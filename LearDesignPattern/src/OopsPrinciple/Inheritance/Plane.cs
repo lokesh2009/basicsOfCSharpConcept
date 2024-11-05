@@ -1,22 +1,24 @@
+
+
 using LeadDesignPattern.src.OopsPrinciple.Inheritance;
 
 namespace LeadDesignPattern.OopsPrinciple.Inheritance{
 
 
-    public class Bike :Vehicle{
+    public class Plane : Vehicle{
 
-        int numberofWheels {get;set;}
+     
 
         public override void Start()
         {
-              System.Console.WriteLine("Bike Start..");
+            System.Console.WriteLine("Plane starts...");
+
         }
 
         public override void Stop()
         {
-            System.Console.WriteLine("Bike starts vroom vroom");
+         System.Console.WriteLine("Plane stops")   
         }
 
     }
-
-}
+    }

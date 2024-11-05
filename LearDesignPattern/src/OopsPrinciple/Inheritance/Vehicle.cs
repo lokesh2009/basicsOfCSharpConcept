@@ -7,13 +7,13 @@ namespace LeadDesignPattern.src.OopsPrinciple.Inheritance{
 
         public String Year{get;set;}
 
-
-     public void Start(){
+// Virtual methods in CSharp can be ovverride
+     public virtual void Start(){
 
      System.Console.WriteLine("Start the engine....");
      }
 
-     public void Stop(){
+     public virtual void Stop(){
         System.Console.WriteLine("press the key and Stop the enginee...");
      }
 
